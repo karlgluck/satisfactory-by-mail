@@ -1,5 +1,6 @@
 # Satisfactory by Mail
 Clone into `%USERPROFILE%\Documents\My Games\FactoryGame\SaveGame`
+A handy [construction reference manual](https://i.redd.it/qatwxlpgdio21.jpg)
 
 
 ## Day 1: Planetfall
