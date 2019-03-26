@@ -46,12 +46,15 @@ I woke up from my nap near the copper mine to find that the BRO set up a great l
 I spent most of the day running around figuring out how everything was connected and gathering the parts necessary for a space elevator. There are now beacons at a couple of the important locations, too!
 
 ![TheAbyss](/Screenshots/Screenshot20190326-11573300000.png?raw=true "Floating over the abyss")
+*What happens if we put a lid on all this mist?*
 
 ![ObservationDeckAlpha](/Screenshots/Screenshot20190326-12265600000.png?raw=true "Observation Deck Alpha")
+*Wouldn't want to be up there in a storm*
 
-## Day 6: 
+## Day 6: Rotors and RIP
 *Operator K*
 
 The Space Elevator has been constructed and work is in progress to construct and deliver the requested supplies to the orbital Ficsit platform. Our team deployed the first Assemblers to the factory floor geared toward the production of Rotors and Reinforced Iron Plate. Sadly, our current conveyor belts are unable to deliver screws at a fast enough rate to maximize efficiency of the assemblers. Perhaps Ficsit will provide us with an upgrade in the future?
 
 ![InstallingElevator](/Screenshots/Screenshot20190326-12164600000.png?raw=true "Zippers from space")
+*Unzipping the universe one delivery at a time*
