@@ -76,3 +76,13 @@ Using true Ficsit ingenuity, I have built a way to the coal out of platforms tha
 
 ![BroTractor](/Screenshots/Screenshot20190326-21253400000.png?raw=true "Tractor for the B.R.O.")
 *Do you have a driver's license?*
+
+## Day 8: Symmetry
+*Ficsir E*
+
+I had a dream about butterflies - something about this place speaks to my symmetric side. I brought that idea to the factory today, and re-arranged our plant to optimize for RIPs. Six assemblers brought online in a butterfly arrangement! The only problem is we don't have the power (or the iron) to feed them all.
+
+Didn't Ficsir K say something about finding coal? I'll have to go check on that...
+
+![SymmetricRIPping](/Screenshots/Screenshot20190327-18590100000.png?raw=true "Symmetry is beautiful")
+*RIP*
