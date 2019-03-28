@@ -96,3 +96,11 @@ And as if Ficsit hadn't given us enough to do already, now they want us to make 
 
 ![GoGoGadgetTruck](/Screenshots/Screenshot20190327-13022500000.png?raw=true "Go go gadget truck!")
 *Waves goodbye to truck*
+
+## Day 10: Alternate Reality
+*Ficsir E*
+
+Woah. I had kept seeing fleeting images of trucks driving by with coal as I was laying down some new power plants. It gave me a headache so I went and automated iron delivery... but when I came back, it was gone. Something is messing with the timeline on this planet - I'll have to keep an eye on that.
+
+![TruckingAround](/Screenshots/Screenshot20190327-21222200000.png?raw=true "Trucking around")
+
