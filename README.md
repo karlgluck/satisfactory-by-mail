@@ -104,3 +104,12 @@ Woah. I had kept seeing fleeting images of trucks driving by with coal as I was 
 
 ![TruckingAround](/Screenshots/Screenshot20190327-21222200000.png?raw=true "Trucking around")
 
+## Day 10: Going Vertical
+*Ficsir E*
+
+Headquarters keeps telling me I should be "raising the bar" and "looking higher" and "climbing the ladder"... I get the hint. The space elevator is the highest thing around, so I've started building vertical next to it! With lots of layers it will look like a nice lasagna.
+
+Also watch your step up there, I think I sprained my ankle from a fall earlier. Maybe we need jelly-pads under the ladders for safety.
+
+![WonkyBelts](/Screenshots/Screenshot20190328-20513900000.png?raw=true "Don't look at the belts!")
+
