@@ -86,3 +86,13 @@ Didn't Ficsir K say something about finding coal? I'll have to go check on that.
 
 ![SymmetricRIPping](/Screenshots/Screenshot20190327-18590100000.png?raw=true "Symmetry is beautiful")
 *RIP*
+
+## Day 9: Time to get truckin'
+*Ficsir K*
+
+The butterfly RIPs look great! Our factory is probably going to end up with modules that develop each material and using trucks to pull ingredients between them. I can see it now... trucks everywhere!
+
+And as if Ficsit hadn't given us enough to do already, now they want us to make steel. Well, fine. Coal is on its way. Only problem is... our automated trucks may not exactly follow their preassigned paths. I fully expect one to fly off into the abyss any moment now...
+
+![GoGoGadgetTruck](/Screenshots/Screenshot20190327-13022500000.png?raw=true "Go go gadget truck!")
+*Waves goodbye to truck*
