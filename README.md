@@ -113,3 +113,9 @@ Also watch your step up there, I think I sprained my ankle from a fall earlier. 
 
 ![WonkyBelts](/Screenshots/Screenshot20190328-20513900000.png?raw=true "Don't look at the belts!")
 
+## Day 11: Going
+*Ficsir K*
+
+Our factory tower has grown a new level exclusively for the production of Reinforced Iron Plate. While the pattern used is less pretty than the butterfly, this fit the layout and produces a solid 10 RIPs per minute with minimal wasted production capacity. Unfortunately, there are now 3 truck stops in need of iron ingots and no automation. I wonder how Ficsit planned for us to handle the automated traffic jam we're about to cause. These self-driving trucks are finnicky at best.
+
+![Rippyrip](/Screenshots/Screenshot20190330-10390700000?raw=true "Ah, the smell of fresh RIPs in the morning!")
