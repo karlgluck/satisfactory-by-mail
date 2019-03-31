@@ -104,7 +104,7 @@ Woah. I had kept seeing fleeting images of trucks driving by with coal as I was 
 
 ![TruckingAround](/Screenshots/Screenshot20190327-21222200000.png?raw=true "Trucking around")
 
-## Day 10: Going Vertical
+## Day 11: Going Vertical
 *Ficsir E*
 
 Headquarters keeps telling me I should be "raising the bar" and "looking higher" and "climbing the ladder"... I get the hint. The space elevator is the highest thing around, so I've started building vertical next to it! With lots of layers it will look like a nice lasagna.
@@ -113,9 +113,20 @@ Also watch your step up there, I think I sprained my ankle from a fall earlier. 
 
 ![WonkyBelts](/Screenshots/Screenshot20190328-20513900000.png?raw=true "Don't look at the belts!")
 
-## Day 11: Up up and away!
+## Day 12: Up up and away!
 *Ficsir K*
 
 Our factory tower has grown a new level exclusively for the production of Reinforced Iron Plate. While the pattern used is less pretty than the butterfly, this fit the layout and produces a solid 10 RIPs per minute with minimal wasted production capacity. Unfortunately, there are now 3 truck stops in need of iron ingots and no automation. I wonder how Ficsit planned for us to handle the automated traffic jam we're about to cause. These self-driving trucks are finnicky at best.
 
 ![Rippyrip](/Screenshots/Screenshot20190330-10390700000.png?raw=true "Ah, the smell of fresh RIPs in the morning!")
+
+## Day 13: Such great heights
+*Ficsir E*
+
+*sniffs* Aaaahhh. A fine day to re-factor(y). The beltways now once again obey the laws of physics, and I set about resetting the navigation on the trucks. Copper, iron, and coal are all automated.. hopefully they don't crash into eachother. Already had to dig one out of the space-alloy foundation (how it warped in, I don't know. I think there is dark matter inside..)
+
+![OrganizedSpaghetti](/Screenshots/Screenshot20190331-18483700000.png?raw=true "Organized Spaghetti")
+
+![AllTheOutputs](/Screenshots/Screenshot20190331-19040100000.png?raw=true "All the little output boxes, sitting in a row")
+
+
