@@ -1,5 +1,5 @@
 # Satisfactory by Mail
-Clone into `%USERPROFILE%\Documents\My Games\FactoryGame\SaveGame`
+Clone into `%LOCALAPPDATA%\FactoryGame\Saved\SaveGames`
 
 A handy [construction reference manual](https://i.redd.it/qatwxlpgdio21.jpg)
 
@@ -130,3 +130,11 @@ Our factory tower has grown a new level exclusively for the production of Reinfo
 ![AllTheOutputs](/Screenshots/Screenshot20190331-19040100000.png?raw=true "All the little output boxes, sitting in a row")
 
 
+## Day 14: Asleep at the wheel
+*Ficsir K*
+
+Phew, I must have been dead asleep and dreaming hard because when I woke up it seemed like the whole world had moved... something about locals... app data... it's gone now. Anyway, the tower grows ever upwards and now sports a brand new layer cranking out 12 rotors/minute!
+
+We are almost capped in progress without the next Space Elevator upgrade, and so the next step is a steel ingot plant. Probably going to put that somewhere nearby--maybe on the backside of the coal power plants--and conveyor the results to go up the tower alongside our current resources. I sure hope we don't run into any structural issues building so high!
+
+![AWholeNewWorld](/Screenshots/Screenshot20190406-09244500000.png?raw=true "A whole new row of possibilities!")
