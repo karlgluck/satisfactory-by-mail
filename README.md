@@ -138,3 +138,4 @@ Phew, I must have been dead asleep and dreaming hard because when I woke up it s
 We are almost capped in progress without the next Space Elevator upgrade, and so the next step is a steel ingot plant. Probably going to put that somewhere nearby--maybe on the backside of the coal power plants--and conveyor the results to go up the tower alongside our current resources. I sure hope we don't run into any structural issues building so high!
 
 ![AWholeNewWorld](/Screenshots/Screenshot20190406-09244500000.png?raw=true "A whole new row of possibilities!")
+![TheTowerGrows](/Screenshots/Screenshot20190331-10284600000.png?raw=true "The tower grows ever upward")
