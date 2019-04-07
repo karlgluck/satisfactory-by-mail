@@ -129,7 +129,6 @@ Our factory tower has grown a new level exclusively for the production of Reinfo
 
 ![AllTheOutputs](/Screenshots/Screenshot20190331-19040100000.png?raw=true "All the little output boxes, sitting in a row")
 
-
 ## Day 14: Asleep at the wheel
 *Ficsir K*
 
@@ -139,3 +138,15 @@ We are almost capped in progress without the next Space Elevator upgrade, and so
 
 ![AWholeNewWorld](/Screenshots/Screenshot20190406-09244500000.png?raw=true "A whole new row of possibilities!")
 ![TheTowerGrows](/Screenshots/Screenshot20190331-10284600000.png?raw=true "The tower grows ever upward")
+
+## Day 15: Rethinking conveyer belts
+*Ficsir E*
+
+We use a lot of belts. Adding a new level takes a lot of time... so I rethought how the resource delivery system worked in order to save time and boost our vertical (and thereby research) progress. Unfortunately, this required another restructure of the framework..
+
+Our factory now runs on pure ores, no longer smelted ingots. This requires more room on the factory floor, but allows single delivery of iron ore for both iron ingots and smelting steel - which has been implemented to great success.
+
+With the second Space Elevator upgrade complete and a new set of faster belts researched (Mk. 3!) I'm looking forward to some new upgrades - corporate said I may get a new set of boots!
+
+![TowerOfPower](/Screenshots/Screenshot20190407-17474800000.png?raw=true "Looking like a real tower of power")
+
