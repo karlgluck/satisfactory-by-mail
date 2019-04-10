@@ -1,6 +1,6 @@
 # Satisfactory by Mail
 Clone into `%LOCALAPPDATA%\FactoryGame\Saved\SaveGames`
-
+Screenshots at `%USERPROFILE%\Documents\My Games\FactoryGame\Screenshots`
 A handy [construction reference manual](https://i.redd.it/qatwxlpgdio21.jpg)
 
 
@@ -150,3 +150,27 @@ With the second Space Elevator upgrade complete and a new set of faster belts re
 
 ![TowerOfPower](/Screenshots/Screenshot20190407-17474800000.png?raw=true "Looking like a real tower of power")
 
+## Day 16: Concrete jungle
+*Ficsir K*
+
+Another day, another milestone...or three! I'm sure my B.R.O. will be happy to find that there is a brand spankin' new pair of jumpy-legs in the personal storage chest next to the HUB!
+
+ Unfortunately, oil is more that 2 klicks away across some water. I may have tried taking a Sugar Cube out there to scout and ended up running off a cliff into space bees.
+
+ ![SugarCubeBurnsRubber](/Screenshots/Screenshot20190410-07134000000.png?raw=true "What? I'm thinking!")
+ 
+ On top of that, the Caterium right next to our base is entirely covered by an immovable boulder! Figures Ficsit wouldn't send us with dynamite or anything.
+
+ My big accomplishment for today, though? Burning through thousands of concrete to expand our factory floor to maximum dimensions!
+
+ ![ConcreteJungle](/Screenshots/Screenshot20190410-07072600000.png?raw=true "Ah, the smell of cement and diesel in the morning")
+
+ After much ado and consideration while deconstructing the remnants of our previous tower's conveyor system, I want to try an adjacent 3D bus system inspired by some schematics I found for microchips on the Ficsinternet.
+
+ ![BusIdea](/Screenshots/Screenshot20190410-07540500000.png?raw=true "Let's get bussy!")
+
+ There are some very specific rules about how this construct aligns to the factory floor. Splitters and mergers, for example, are always in the center of floor tiles. Since splitters can't be stacked, adding a new layer of capacity to a belt requires removing all conveyors in that stack and those immediately adjacent, then rebuilding all splitters in that stack from top to bottom.
+
+ The idea would be that the production capacity expands orthogonally from the bus to meet demand, and belts expand vertically to grow their capacity. From our Ficsit field guide, it appears we would need about 32 columns. My intent is to start the construction as far back as possible facing our current factory, and create a "delivery floor" under the current floor for suppliers to drop raw materials at truck stops underneath that get conveyed up to the start of the bus. 
+ 
+ Perhaps after a brief nap I'll continue this endeavor...
