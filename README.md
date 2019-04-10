@@ -1,6 +1,8 @@
 # Satisfactory by Mail
 Clone into `%LOCALAPPDATA%\FactoryGame\Saved\SaveGames`
+
 Screenshots at `%USERPROFILE%\Documents\My Games\FactoryGame\Screenshots`
+
 A handy [construction reference manual](https://i.redd.it/qatwxlpgdio21.jpg)
 
 
@@ -165,7 +167,7 @@ Another day, another milestone...or three! I'm sure my B.R.O. will be happy to f
 
  ![ConcreteJungle](/Screenshots/Screenshot20190410-07072600000.png?raw=true "Ah, the smell of cement and diesel in the morning")
 
- After much ado and consideration while deconstructing the remnants of our previous tower's conveyor system, I want to try an adjacent 3D bus system inspired by some schematics I found for microchips on the Ficsinternet.
+ After much ado and consideration while deconstructing the remnants of our twice-previous tower's conveyor system, I want to try an adjacent 3D bus system inspired by some schematics I found for microchips on the Ficsinternet.
 
  ![BusIdea](/Screenshots/Screenshot20190410-07540500000.png?raw=true "Let's get bussy!")
 
