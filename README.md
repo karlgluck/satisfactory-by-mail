@@ -176,3 +176,12 @@ Another day, another milestone...or three! I'm sure my B.R.O. will be happy to f
  The idea would be that the production capacity expands orthogonally from the bus to meet demand, and belts expand vertically to grow their capacity. From our Ficsit field guide, it appears we would need about 32 columns. My intent is to start the construction as far back as possible facing our current factory, and create a "delivery floor" under the current floor for suppliers to drop raw materials at truck stops underneath that get conveyed up to the start of the bus. 
  
  Perhaps after a brief nap I'll continue this endeavor...
+
+ ## Day 17: Exhaustion
+ *Ficsir K*
+
+ Turns out, it takes a whole lotta work to build a bus factory. And a whole lotta resources. I like the idea of just going straight up a whole lot more now... but at least I have this nifty plan for the bus belt ordering?
+
+ ![BeltOrder](/Screenshots/bus-belt-order.png?raw=true "The bus is set up for this dependency ordering...")
+
+ ![BusGoesHere](/Screenshots/Screenshot20190410-21411700000.png?raw=true "The bus goes here... at some point. I like going up again.")
