@@ -157,31 +157,40 @@ With the second Space Elevator upgrade complete and a new set of faster belts re
 
 Another day, another milestone...or three! I'm sure my B.R.O. will be happy to find that there is a brand spankin' new pair of jumpy-legs in the personal storage chest next to the HUB!
 
- Unfortunately, oil is more that 2 klicks away across some water. I may have tried taking a Sugar Cube out there to scout and ended up running off a cliff into space bees.
+Unfortunately, oil is more that 2 klicks away across some water. I may have tried taking a Sugar Cube out there to scout and ended up running off a cliff into space bees.
 
- ![SugarCubeBurnsRubber](/Screenshots/Screenshot20190410-07134000000.png?raw=true "What? I'm thinking!")
+![SugarCubeBurnsRubber](/Screenshots/Screenshot20190410-07134000000.png?raw=true "What? I'm thinking!")
  
- On top of that, the Caterium right next to our base is entirely covered by an immovable boulder! Figures Ficsit wouldn't send us with dynamite or anything.
+On top of that, the Caterium right next to our base is entirely covered by an immovable boulder! Figures Ficsit wouldn't send us with dynamite or anything.
 
- My big accomplishment for today, though? Burning through thousands of concrete to expand our factory floor to maximum dimensions!
+My big accomplishment for today, though? Burning through thousands of concrete to expand our factory floor to maximum dimensions!
 
- ![ConcreteJungle](/Screenshots/Screenshot20190410-07072600000.png?raw=true "Ah, the smell of cement and diesel in the morning")
+![ConcreteJungle](/Screenshots/Screenshot20190410-07072600000.png?raw=true "Ah, the smell of cement and diesel in the morning")
 
- After much ado and consideration while deconstructing the remnants of our twice-previous tower's conveyor system, I want to try an adjacent 3D bus system inspired by some schematics I found for microchips on the Ficsinternet.
+After much ado and consideration while deconstructing the remnants of our twice-previous tower's conveyor system, I want to try an adjacent 3D bus system inspired by some schematics I found for microchips on the Ficsinternet.
 
- ![BusIdea](/Screenshots/Screenshot20190410-07540500000.png?raw=true "Let's get bussy!")
+![BusIdea](/Screenshots/Screenshot20190410-07540500000.png?raw=true "Let's get bussy!")
 
- There are some very specific rules about how this construct aligns to the factory floor. Splitters and mergers, for example, are always in the center of floor tiles. Since splitters can't be stacked, adding a new layer of capacity to a belt requires removing all conveyors in that stack and those immediately adjacent, then rebuilding all splitters in that stack from top to bottom.
+There are some very specific rules about how this construct aligns to the factory floor. Splitters and mergers, for example, are always in the center of floor tiles. Since splitters can't be stacked, adding a new layer of capacity to a belt requires removing all conveyors in that stack and those immediately adjacent, then rebuilding all splitters in that stack from top to bottom.
 
- The idea would be that the production capacity expands orthogonally from the bus to meet demand, and belts expand vertically to grow their capacity. From our Ficsit field guide, it appears we would need about 32 columns. My intent is to start the construction as far back as possible facing our current factory, and create a "delivery floor" under the current floor for suppliers to drop raw materials at truck stops underneath that get conveyed up to the start of the bus. 
+The idea would be that the production capacity expands orthogonally from the bus to meet demand, and belts expand vertically to grow their capacity. From our Ficsit field guide, it appears we would need about 32 columns. My intent is to start the construction as far back as possible facing our current factory, and create a "delivery floor" under the current floor for suppliers to drop raw materials at truck stops underneath that get conveyed up to the start of the bus. 
  
- Perhaps after a brief nap I'll continue this endeavor...
+Perhaps after a brief nap I'll continue this endeavor...
 
- ## Day 17: Exhaustion
- *Ficsir K*
+## Day 17: Exhaustion
+*Ficsir K*
 
- Turns out, it takes a whole lotta work to build a bus factory. And a whole lotta resources. I like the idea of just going straight up a whole lot more now... but at least I have this nifty plan for the bus belt ordering?
+Turns out, it takes a whole lotta work to build a bus factory. And a whole lotta resources. I like the idea of just going straight up a whole lot more now... but at least I have this nifty plan for the bus belt ordering?
 
- ![BeltOrder](/Screenshots/bus-belt-order.png?raw=true "The bus is set up for this dependency ordering...")
+![BeltOrder](/Screenshots/bus-belt-order.png?raw=true "The bus is set up for this dependency ordering...")
 
- ![BusGoesHere](/Screenshots/Screenshot20190410-21411700000.png?raw=true "The bus goes here... at some point. I like going up again.")
+![BusGoesHere](/Screenshots/Screenshot20190410-21411700000.png?raw=true "The bus goes here... at some point. I like going up again.")
+ 
+## Day 18: Shoot for the moon 
+*Ficsir E*
+
+Woooooooeeeee that oil was far away. The sugar cube broke down when I tried to take it for a swim... so I scavenged enough resources from the woodlands and space bees to make a fancy new truck! Now with even more wheels!
+
+Headquarters liked my alien killing spree apparently, so now we have a fancy new "rail gun" har har.. bunch of jokesters up there.
+
+![GunsAreAThingNow](/Screenshots/Screenshot20190413-08573000000.png?raw=true "Pew ... ... ... pew!")
